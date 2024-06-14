@@ -1,1 +1,1 @@
-# amozia.official.github.io
+# amozia.github.io
